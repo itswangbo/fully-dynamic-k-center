@@ -1,6 +1,6 @@
 # fully-dynamic-k-center
-This is the source code for a KDD21 submission.
-This repository contains the source code of a program related to an article submitted to KDD21. 
+This is the source code for a VLDB22 submission.
+This repository contains the source code of a program related to an article submitted to VLDB22. 
 
 Three algorithms are implemented in the package, including fully dynamic algorithm(FD), offline greedy algorithm(OG), and offline linear program algorithm(LP). All algorithms approximate the robust k-center problem.
 
