@@ -1,5 +1,5 @@
 # fully-dynamic-k-center
-This is the source code for a AISTATS22 submission.    
+This is the source code for an Algorithms submission.    
 This repository contains the source code of a program related to an article submitted to AISTATS22. 
 
 Three algorithms are implemented in the package, including fully dynamic algorithm(FD), offline greedy algorithm(OG), and offline linear program algorithm(LP). All algorithms approximate the robust k-center problem.
